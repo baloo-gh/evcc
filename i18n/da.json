@@ -133,6 +133,7 @@
     "devices": {
       "auxMeter": "Smart forbrugsenhed",
       "batteryStorage": "Batterilagring",
+      "consumer": "Forbrugsenhed",
       "solarSystem": "Solcelleanlæg"
     },
     "editor": {
@@ -325,7 +326,7 @@
       "addPvBattery": "Tilføj solpanel eller batteri",
       "addTariffs": "Tilføj tariffer",
       "addVehicle": "Tilføj køretøj",
-      "configured": "Konfigureret",
+      "configured": "konfigureret",
       "edit": "rediger",
       "loadpointRequired": "Der skal konfigureres mindst ét ladepunkt.",
       "name": "Navn",
